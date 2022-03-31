@@ -16,7 +16,7 @@
     Aradığımız sayının ortada olması O(n^2)
 #
 ### Worst case 
-    Aradığımız sayının sonda olması
+    Aradığımız sayının sonda olması O(n^2)
 ************************************************************
 ## Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer ? 
     Average Case
